@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://F:/SVNCode/6.0会计/03系统设计/会计平台安全对象脚本/securityObject.json" charset="UTF-8" />
+    <file url="file://F:/SVNCode/6.0会计/03系统设计/会计平台安全对象脚本/省会计安全对象——刘伟恒/发布商品/releaseGoods.json" charset="GB2312" />
+    <file url="file://F:/SVNCode/6.0会计/03系统设计/会计平台安全对象脚本/省会计安全对象——刘伟恒/商品管理/goodsManager.json" charset="GB2312" />
+    <file url="file://F:/SVNCode/6.0会计/03系统设计/会计平台安全对象脚本/省会计安全对象——刘伟恒/开通记录/openRecord.json" charset="GB2312" />
+    <file url="file://F:/SVNCode/6.0会计/03系统设计/会计平台安全对象脚本/省会计安全对象——刘伟恒/订单管理/orderManage.json" charset="GB2312" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
